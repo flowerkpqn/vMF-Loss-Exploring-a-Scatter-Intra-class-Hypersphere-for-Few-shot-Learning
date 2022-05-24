@@ -9,10 +9,10 @@ By setting a smaller κ  our method can learn a more transferrable embedding spa
 Extensive experiments on the two most widely used datasets demonstrate the effectiveness of our method on few-shot learning tasks. 
 <img src='imgs/architecture.png' width='640' height='280'>
 
-## resources
-- gpu  TU102 [GeForce RTX 2080 Ti]
+## Resources
+- gpu  `TU102 [GeForce RTX 2080 Ti]`
 
-- cpu  Intel(R) Xeon(R) Silver 4210 CPU @ 2.20GHz
+- cpu  `Intel(R) Xeon(R) Silver 4210 CPU @ 2.20GHz`
 
 ## Prerequisites
 

@@ -10,14 +10,11 @@ import torch.utils.data as data
 import torchvision.transforms as transforms
 from PIL import Image
 
-# Set the appropriate paths of the datasets here.
-
-
-DATA_DIR = '/data/liuxin/datasets/tiered_imagenet'
-IMAGE_PATH = osp.join(DATA_DIR, 'tiered_imagenet/images')
-SPLIT_PATH = osp.join(DATA_DIR, 'tiered_imagenet/split')
-CACHE_PATH = osp.join(DATA_DIR, '.cache/')
-
+THIS_PATH = osp.dirname(__file__)
+ROOT_PATH1 = osp.abspath(osp.join(THIS_PATH, '..', '..', '..'))
+ROOT_PATH2 = osp.abspath(osp.join(THIS_PATH, '..', '..'))
+IMAGE_PATH = osp.join(ROOT_PATH1, 'data/tieredimagenet/')
+SPLIT_PATH = osp.join(ROOT_PATH2, 'data/miniimagenet/split')
 
 def buildLabelIndex(labels):
     label2inds = {}

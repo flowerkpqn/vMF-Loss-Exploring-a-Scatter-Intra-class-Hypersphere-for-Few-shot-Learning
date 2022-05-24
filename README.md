@@ -1,5 +1,5 @@
 # vMF-Loss-Exploring-a-Scatter-Intra-class-Hypersphere-for-Few-shot-Learning
-The code repository for "vMF-Loss-Exploring-a-Scatter-Intra-class-Hypersphere-for-Few-shot-Learning"[[ArXiv]](https://arxiv.org/)
+The code repository for "vMF-Loss-Exploring-a-Scatter-Intra-class-Hypersphere-for-Few-shot-Learning"
 ## OUR WORK
 we perform investigations to study the relationship between the performance and the structure of their learned embedding spaces. 
 We find that the few-shot performance strongly correlated to the intra-class distance of the learned embedding space. 
@@ -38,8 +38,6 @@ The following packages are required to run the scripts:
 `python train_fsl.py --shot 5 --eval_shot 5 --dataset TieredImageNet --init_weights ./saves/initialization/tieredimagenet/Res12-pre.pth`
 
 ## Standard Few-shot Learning Results
-
-[Link to Weights](https://drive.google.com/drive/folders/)
 
 
 <img src='imgs/result.png' width='640' height='280'>

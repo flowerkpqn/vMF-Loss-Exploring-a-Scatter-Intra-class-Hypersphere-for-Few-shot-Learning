@@ -10,8 +10,8 @@ import numpy as np
 THIS_PATH = osp.dirname(__file__)
 ROOT_PATH = osp.abspath(osp.join(THIS_PATH, '..', '..'))
 ROOT_PATH2 = osp.abspath(osp.join(THIS_PATH, '..', '..', '..'))
-IMAGE_PATH1 = osp.join(ROOT_PATH2, '/data/liuxin/datasets/miniimagenet/images')
-SPLIT_PATH = osp.join(ROOT_PATH, '/data/liuxin/datasets/miniimagenet/split')
+IMAGE_PATH1 = osp.join(ROOT_PATH2, 'data/miniimagenet/images')
+SPLIT_PATH = osp.join(ROOT_PATH, 'data/miniimagenet/split')
 CACHE_PATH = osp.join(ROOT_PATH, '.cache/')
 
 def identity(x):

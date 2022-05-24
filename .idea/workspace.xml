@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6f2d5990-5799-48a8-b5db-ad497a1e1859" name="Default Changelist" comment="" />
+    <list default="true" id="6f2d5990-5799-48a8-b5db-ad497a1e1859" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="70f51bc4-95a3-4af8-bcca-210d23323402" />
   <component name="ProjectId" id="28c7VPsRp75ph3A9hPWaVfqFCWx" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -16,7 +22,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/data/tiered_imagenet" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/task diversity" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -68,6 +74,9 @@
       <workItem from="1652075188281" duration="76000" />
       <workItem from="1652785853152" duration="610000" />
       <workItem from="1652787724213" duration="26669000" />
+      <workItem from="1653213374576" duration="164000" />
+      <workItem from="1653290063329" duration="637000" />
+      <workItem from="1653305504416" duration="188000" />
     </task>
     <servers />
   </component>
@@ -84,9 +93,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1652837514019" />
-    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1652846440514">
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1653305690366">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824/1920.0.2560.1400@0.0.1536.824" timestamp="1653305690366" />
     <state x="2835" y="289" key="FileChooserDialogImpl/0.0.1536.824/1920.0.2560.1400@1920.0.2560.1400" timestamp="1652794160802" />
     <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1652846440514" />
     <state width="1493" height="6" key="GridCell.Tab.0.bottom" timestamp="1652924170538">
@@ -114,6 +124,10 @@
     </state>
     <state x="2373" y="97" key="SettingsEditor/0.0.1536.824/1920.0.2560.1400@1920.0.2560.1400" timestamp="1652791285788" />
     <state x="272" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1651504093704" />
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1653305663547">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.2560.1400@0.0.1536.824" timestamp="1653305663547" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/untitled6$train_fsl.coverage" NAME="train_fsl Coverage Results" MODIFIED="1652924170521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

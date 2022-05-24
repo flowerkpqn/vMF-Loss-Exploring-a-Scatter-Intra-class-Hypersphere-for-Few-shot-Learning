@@ -8,6 +8,12 @@ Therefore, we employ von Mises-Fisher (vMF) distribution and present a vMF simil
 By setting a smaller κ  our method can learn a more transferrable embedding space with high intra class diversity. 
 Extensive experiments on the two most widely used datasets demonstrate the effectiveness of our method on few-shot learning tasks. 
 <img src='imgs/architecture.png' width='640' height='280'>
+
+## resources
+- gpu  TU102 [GeForce RTX 2080 Ti]
+
+- cpu  Intel(R) Xeon(R) Silver 4210 CPU @ 2.20GHz
+
 ## Prerequisites
 
 The following packages are required to run the scripts:

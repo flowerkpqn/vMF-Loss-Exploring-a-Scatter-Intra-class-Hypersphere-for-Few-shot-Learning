@@ -24,8 +24,6 @@ The following packages are required to run the scripts:
 
 - Dataset: please download the dataset and put images into the folder data/[name of the dataset]/images
 
-- Pre-trained weights: please download the [pre-trained weights](https://drive.google.com/open?id=14Jn1t9JxH-CxjfWy4JmVpCxkC9cDqqfE) of the encoder if needed. The pre-trained weights can be downloaded in a [zip file](https://drive.google.com/file/d/1XcUZMNTQ-79_2AkNG3E04zh6bDYnPAMY/view?usp=sharing).
-
 ## Model Training and Evaluation
 
 ### miniimagenet 1shot

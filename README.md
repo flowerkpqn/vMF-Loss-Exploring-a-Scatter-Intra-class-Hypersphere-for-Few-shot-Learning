@@ -48,4 +48,16 @@ The following packages are required to run the scripts:
 
 ## Acknowledgment
 We thank the following repos providing helpful components/functions in our work.
-- [FEAT](https://github.com/Sha-Lab/FEAT)
+
+[FEAT](https://github.com/Sha-Lab/FEAT)
+
+    @inproceedings{ye2020fewshot,
+      author    = {Han-Jia Ye and
+                   Hexiang Hu and
+                   De-Chuan Zhan and
+                   Fei Sha},
+      title     = {Few-Shot Learning via Embedding Adaptation with Set-to-Set Functions},
+      booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+      pages     = {8808--8817},
+      year      = {2020}
+    }
